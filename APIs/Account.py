@@ -6,6 +6,8 @@ Created on 2014年9月5日
 wiki:http://wiki.vg/Authentication#Authenticate
 '''
 
+agentName = 'Minecraft'
+
 '''
 Authenticates a user using his password.
 
